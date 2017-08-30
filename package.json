@@ -1,0 +1,21 @@
+{
+  "name": "html-kit",
+  "version": "1.0.0",
+  "description": "html starter kit",
+  "main": "gulpfile.js",
+  "author": "faniadisetyawan@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "panini": "^1.5.1",
+    "pump": "^1.0.2",
+    "rimraf": "^2.6.1",
+    "run-sequence": "^2.1.0"
+  }
+}

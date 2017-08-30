@@ -1,0 +1,21 @@
+{
+  "name": "html-kit",
+  "description": "html starter kit",
+  "main": "gulpfile.js",
+  "authors": [
+    "faniadisetyawan@gmail.com"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "bootstrap": "v4.0.0-beta"
+  }
+}
